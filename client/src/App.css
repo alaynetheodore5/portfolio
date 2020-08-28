@@ -660,6 +660,7 @@ section {
 
 #portykk:hover {
   transform: scale(1.2);
+  background-image: url("https://media2.giphy.com/media/KEAdPusJRecS05dIdx/giphy.gif");
 }
 
 #portytt {
@@ -674,6 +675,7 @@ section {
 
 #portytt:hover {
   transform: scale(1.2);
+  /* background-image: url("https://media2.giphy.com/media/KEAdPusJRecS05dIdx/giphy.gif"); */
 }
 
 #portytm {
@@ -688,6 +690,7 @@ section {
 
 #portytm:hover {
   transform: scale(1.2);
+  background-image: url("https://media0.giphy.com/media/JO3ZS3GjDUP7HMEfVl/giphy.gif");
 }
 
 .product-device {
