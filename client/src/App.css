@@ -408,7 +408,7 @@ section {
 }
 
 .contactme .getintouch {
-  background-image: url(/Images/brush-stroke.png);
+  background-image: url(/portfolio/Images/brush-stroke.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -490,42 +490,42 @@ section {
 }
 
 #footer .social-links .github {
-  background-image: url(/Images/github1.png);
+  background-image: url(/portfolio/Images/github1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #footer .social-links .github:hover {
-  background-image: url(/Images/github1.png);
+  background-image: url(/portfolio/Images/github1.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #footer .social-links .gmail {
-  background-image: url(/Images/gmail.png);
+  background-image: url(/portfolio/Images/gmail.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #footer .social-links .gmail:hover {
-  background-image: url(/Images/gmail.png);
+  background-image: url(/portfolio/Images/gmail.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #footer .social-links .linkedin {
-  background-image: url(/Images/linkedin.png);
+  background-image: url(/portfolio/Images/linkedin.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #footer .social-links .linkedin:hover {
-  background-image: url(/Images/linkedin.png);
+  background-image: url(/portfolio/Images/linkedin.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -637,7 +637,7 @@ section {
   width: 80%; 
   height: 300px; 
   border-radius: 21px 21px 0 0;
-  background-image: url(/Images/BookClubWelcome.png);
+  background-image: url(/portfolio/Images/BookClubWelcome.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -652,7 +652,7 @@ section {
   width: 80%; 
   height: 300px; 
   border-radius: 21px 21px 0 0;
-  background-image: url(/Images/Kimagotchi.png);
+  background-image: url(/portfolio/Images/Kimagotchi.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -666,7 +666,7 @@ section {
   width: 80%; 
   height: 300px; 
   border-radius: 21px 21px 0 0;
-  background-image: url(/Images/TheTraveler.png);
+  background-image: url(/portfolio/Images/TheTraveler.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -680,7 +680,7 @@ section {
   width: 80%; 
   height: 300px; 
   border-radius: 21px 21px 0 0;
-  background-image: url(/Images/TeamManagerPlay.png);
+  background-image: url(/portfolio/Images/TeamManagerPlay.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
