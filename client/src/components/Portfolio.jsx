@@ -27,7 +27,7 @@ const Portfolio = props => {
             <div className="container">
                 <div className="section-title">
                     <h2>My Portfolio</h2>
-                    {/* <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p> */}
+                    {/* <p>Click on a project to check out more</p> */}
                 </div>
             </div>
             <div>
@@ -43,10 +43,10 @@ const Portfolio = props => {
                     </div>
                     <div className="mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden" style={{backgroundColor:"#FFF1E6"}}>
                         <div className="my-3 p-3">
-                        <h2 className="display-5">Kimagotchi</h2>
-                        <p className="lead">ReactJS SPA</p>
+                        <h2 className="display-5">ScheduleKeeper</h2>
+                        <p className="lead">ReactJS, JavaScript, NodeJS</p>
                         </div>
-                        <a href="https://github.com/alaynetheodore5/kimagotchi">
+                        <a href="https://github.com/alaynetheodore5/mern-schedule">
                             <div className="bg-dark shadow-sm mx-auto" id="portykk"></div>
                         </a>
                     </div>

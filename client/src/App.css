@@ -652,7 +652,7 @@ section {
   width: 80%; 
   height: 300px; 
   border-radius: 21px 21px 0 0;
-  background-image: url(/portfolio/Images/Kimagotchi.png);
+  background-image: url(/portfolio/Images/ScheduleKeeper.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -660,7 +660,7 @@ section {
 
 #portykk:hover {
   transform: scale(1.2);
-  background-image: url("https://media2.giphy.com/media/KEAdPusJRecS05dIdx/giphy.gif");
+  background-image: url("https://media.giphy.com/media/Njyb2eoAa1WBOMEjFG/giphy.gif");
 }
 
 #portytt {
