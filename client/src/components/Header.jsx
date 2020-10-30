@@ -10,7 +10,7 @@ const Header = props => {
 
             <nav className="nav-menu d-none d-lg-block">
             <ul>
-                <li className="active"><a href="/" id="navhome">Home</a></li>
+                <li className="active"><a href="#home" id="navhome">Home</a></li>
                 <li><a href="#about" id="navabout">About</a></li>
                 {/* <li><a href="#resume">Resume</a></li>
                 <li><a href="#services">Services</a></li> */}
