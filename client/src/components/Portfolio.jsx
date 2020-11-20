@@ -2,25 +2,6 @@ import React from 'react';
 
 const Portfolio = props => {
 
-    // var modal = document.getElementById("myModal");
-
-    // // Get the image and insert it inside the modal - use its "alt" text as a caption
-    // var img = document.getElementById("port1");
-    // var modalImg = document.getElementById("img01");
-    // var captionText = document.getElementById("caption");
-    // img.onClick = function(){
-    // modal.style.display = "block";
-    // modalImg.src = this.src;
-    // captionText.innerHTML = this.alt;
-    // }
-
-    // // Get the <span> element that closes the modal
-    // var span = document.getElementsByClassNameclassNameName("close")[0];
-
-    // // When the user clicks on <span> (x), close the modal
-    // span.onclick = function() { 
-    // modal.style.display = "none";
-    // }
     
     return (
         <div id="portfolio" className="portfolio">
@@ -37,7 +18,8 @@ const Portfolio = props => {
                         <h2 className="display-5">TheBookClub</h2>
                         <p className="lead">C#/.Net, MVC, CSS/HTML/Bootstrap</p>
                         </div>
-                        <a href="https://github.com/alaynetheodore5/TheBookClub">
+                        {/* <a href="https://github.com/alaynetheodore5/TheBookClub"> */}
+                        <a href="http://18.219.3.166/">
                             <div className="bg-light shadow-sm mx-auto" id="portybc"></div>
                         </a>
                     </div>
@@ -46,7 +28,8 @@ const Portfolio = props => {
                         <h2 className="display-5">ScheduleKeeper</h2>
                         <p className="lead">ReactJS, JavaScript, NodeJS</p>
                         </div>
-                        <a href="https://github.com/alaynetheodore5/mern-schedule">
+                        {/* <a href="https://github.com/alaynetheodore5/mern-schedule"> */}
+                        <a href="http://3.139.92.204/">
                             <div className="bg-dark shadow-sm mx-auto" id="portykk"></div>
                         </a>
                     </div>
